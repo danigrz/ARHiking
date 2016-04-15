@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\classes-463c9301f6ef238fd689cfb7b5c9af37d00b3eaf.jar" />
+    </item>
+    <item
+        jar="D:\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\wikitudesdk\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ae586a2e0bd72e9130723cf862b32516610f7a94">
+        <dex dex="D:\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\classes-6c6875dd285a1b8e75e297c16cde30750b8d9ab4.jar" />
+    </item>
+    <item
+        jar="C:\Users\dani\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-97385eef097912a41cee699425602f9c064fe345.jar" />
+    </item>
+    <item
+        jar="C:\Users\dani\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="D:\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\core-3.2.0-ed2dbd888e4e561fad487cf241fe0f1977d6f911.jar" />
+    </item>
+    <item
+        jar="D:\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-1d87cd446344c4c9e909cdd0934df4056ef000f5.jar" />
+    </item>
+
+</items>
