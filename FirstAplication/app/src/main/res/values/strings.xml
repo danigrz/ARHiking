@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstAplication</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="image">image</string>
+    <string name="tomar_foto">Tomar foto</string>
+</resources>
